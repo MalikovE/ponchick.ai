@@ -4,9 +4,9 @@ Recognize is it ponchick or not
 Examples:  
 
 Input grid:  
-_X_  
-_X_   
-XX_   
+\_X\_  
+\_X\_   
+XX\_   
 It's not a ponchik!  
   
 Input grid :
