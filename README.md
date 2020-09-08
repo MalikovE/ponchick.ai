@@ -1,14 +1,14 @@
 # ponchick.ai
-Recognize is it ponchick or not
+Recognize is it ponchick or not  
 
-Examples:
+Examples:  
 
-Input grid:
-_X_
-_X_
-XX_
-It's not a ponchik!
-
+Input grid:  
+_X_  
+_X_   
+XX_   
+It's not a ponchik!  
+  
 Input grid :
 _XX
 X_X
